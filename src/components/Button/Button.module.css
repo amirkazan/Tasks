@@ -1,18 +1,18 @@
 .button {
 	border-radius: 4px;
 	padding: 8px;
-	background: #4a90e2;
-	color: #fff; 
+	background:  #4a90e2;
+	color: #FFF;
 	text-transform: uppercase;
 	font-weight: 700;
+	line-height: 12px;
 	font-size: 12px;
-	line-height: 1em;
-	cursor: pointer;
 	border: none;
 	appearance: none;
-}
+	cursor: pointer;
 
+}
 .button__grey {
-	background: #ccc;
+	background: #CCC;
 	color: #354354;
 }

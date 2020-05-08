@@ -1,0 +1,15 @@
+.table{
+	width: 80%;
+	border-spacing: 0px;
+}
+
+.header{
+	background-color: grey;
+}
+
+.line{
+	background-color: #d7dadc;
+}
+.line2{
+	background-color: #9aa1a9;
+}
